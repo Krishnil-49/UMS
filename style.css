@@ -1,0 +1,150 @@
+
+body{
+  font-family: "Montserrat-Medium";
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+/* Design For Header Section */
+
+#header-section{
+  padding-top: 40px;
+  background-color: #4f3961
+}
+
+/* For UMS Logo */
+.logo{
+  width: 160px;
+}
+
+/* For UMS Label */
+.label{
+  font-family: "Montserrat-Black";
+  text-align: center;
+  font-size: 2rem;
+}
+
+.nav-item{
+  font-family: "Montserrat-Medium";
+  font-size: 0.8rem;
+}
+
+.navigation-content{
+  margin: 0 0 0 10%;
+}
+
+/* Design for Middle Section */
+
+#middle-section{
+  /* height: 1000px; */
+  background-color: #ea728c;
+}
+
+/* Degign for left division containing student's details */
+.student-info{
+  width: 25%;
+  padding: 40px 0 0 0;
+  background-color: #ea728c;
+}
+
+.profile-image{
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.user-details{
+  padding: 0 20px 0 20px;
+}
+
+#name-para{
+  font-family: "Montserrat-Bold";
+  font-size: 1rem;
+  margin: 20% 0 0 0;
+}
+
+#reg-para{
+  font-family: "Montserrat-Regular";
+  font-size: 0.9rem;
+}
+
+.general-info{
+  padding: 30px 0 20px 0;
+  font-family: Montserrat-Medium;
+  font-size: 0.8rem;
+  background-color: #ea728c;
+}
+
+.general-info-para{
+  padding: 8px 15px 8px 15px;
+  background-color: #4f3961;
+  color: white;
+  margin: 0 0 1px 0;
+}
+
+.info{
+  padding: 30px 15px 30px 15px;
+  background-color: #4f3961;
+  color: white;
+}
+
+.info-head{
+  font-family: "Montserrat-Bold";
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.info-para{
+  font-family: "Montserrat-Medium";
+  text-align: justify;
+  font-size: 0.8rem;
+}
+
+/* Degign for right division containing student's regular data */
+.student-data{
+  background-color: #fc9d9d;
+}
+
+.notification{
+  font-family: "Montserrat-Medium";
+  padding: 10px 0;
+  font-size: 0.9rem;
+}
+
+.basic-table{
+  width: 100%;
+}
+
+.thead{
+  font-family: "Montserrat-Bold";
+  font-size: 1rem;
+}
+
+.time-table-div{
+  padding: 20px 0;
+}
+
+.course-attendence-div{
+  padding: 20px 0;
+}
+
+/* Fonts */
+@font-face {
+  font-family: 'Montserrat-Black';
+  src: url('fonts/Montserrat/Montserrat-Black.ttf');
+}
+
+@font-face {
+  font-family: 'Montserrat-Medium';
+  src: url('fonts/Montserrat/Montserrat-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url('fonts/Montserrat/Montserrat-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: url('fonts/Montserrat/Montserrat-Regular.ttf');
+}
